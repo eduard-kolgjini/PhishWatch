@@ -1,0 +1,9 @@
+https://fortsec.org/
+https://google.com/
+http://phishing-test.com
+http://fraudulent-website.net
+http://fakebank-login.com
+http://malicious-site.org
+http://untrusted-certificate.com
+http://phishingsite.com
+http://test-malware-site.org
