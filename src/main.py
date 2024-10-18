@@ -9,7 +9,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # VirusTotal API Key (replace with your own key)
-API_KEY = 'ec997346cf668c7b6b40c49efb1cf8e0509a52b66709c13f99271f25cc858c36'
+API_KEY = 'your-virustotal-api'
 
 # Rate limits (VirusTotal free tier allows 4 requests per minute)
 RATE_LIMIT = 4
